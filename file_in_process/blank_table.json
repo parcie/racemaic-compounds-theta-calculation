@@ -1,0 +1,1901 @@
+{
+    "1": {
+        "standard_name": "P 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 1": null,
+            "A 1": null,
+            "B 1": null,
+            "C 1": null,
+            "F 1": null,
+            "I 1": null
+        }
+    },
+    "2": {
+        "standard_name": "P -1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -1": null,
+            "A -1": null,
+            "B -1": null,
+            "C -1": null,
+            "F -1": null,
+            "I -1": null
+        }
+    },
+    "3": {
+        "standard_name": "P 1 2 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 1 2 1": null,
+            "P 1 1 2": null,
+            "P 2 1 1": null,
+            "C 1 1 2": null
+        }
+    },
+    "4": {
+        "standard_name": "P 1 21 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 1 21 1": null,
+            "P 1 1 21": null,
+            "P 21 1 1": null,
+            "C 1 1 21": null
+        }
+    },
+    "5": {
+        "standard_name": "C 1 2 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C 1 2 1": null,
+            "A 1 2 1": null,
+            "I 1 2 1": null,
+            "A 1 1 2": null,
+            "B 1 1 2": null,
+            "I 1 1 2": null,
+            "B 2 1 1": null,
+            "C 2 1 1": null,
+            "I 2 1 1": null,
+            "I 1 21 1": null,
+            "C 1 21 1": null
+        }
+    },
+    "6": {
+        "standard_name": "P 1 m 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 1 m 1": null,
+            "P 1 1 m": null,
+            "P m 1 1": null
+        }
+    },
+    "7": {
+        "standard_name": "P 1 c 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 1 c 1": null,
+            "P 1 n 1": null,
+            "P 1 a 1": null,
+            "P 1 1 a": null,
+            "P 1 1 n": null,
+            "P 1 1 b": null,
+            "P b 1 1": null,
+            "P n 1 1": null,
+            "P c 1 1": null
+        }
+    },
+    "8": {
+        "standard_name": "C 1 m 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C 1 m 1": null,
+            "A 1 m 1": null,
+            "I 1 m 1": null,
+            "A 1 1 m": null,
+            "B 1 1 m": null,
+            "I 1 1 m": null,
+            "B m 1 1": null,
+            "C m 1 1": null,
+            "I m 1 1": null
+        }
+    },
+    "9": {
+        "standard_name": "C 1 c 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C 1 c 1": null,
+            "A 1 n 1": null,
+            "I 1 a 1": null,
+            "A 1 a 1": null,
+            "C 1 n 1": null,
+            "I 1 c 1": null,
+            "A 1 1 a": null,
+            "B 1 1 n": null,
+            "I 1 1 b": null,
+            "B 1 1 b": null,
+            "A 1 1 n": null,
+            "I 1 1 a": null,
+            "B b 1 1": null,
+            "C n 1 1": null,
+            "I c 1 1": null,
+            "C c 1 1": null,
+            "B n 1 1": null,
+            "I b 1 1": null
+        }
+    },
+    "10": {
+        "standard_name": "P 1 2/m 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 1 2/m 1": null,
+            "P 1 1 2/m": null,
+            "P 2/m 1 1": null
+        }
+    },
+    "11": {
+        "standard_name": "P 1 21/m 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 1 21/m 1": null,
+            "P 1 1 21/m": null,
+            "P 21/m 1 1": null
+        }
+    },
+    "12": {
+        "standard_name": "C 1 2/m 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C 1 2/m 1": null,
+            "A 1 2/m 1": null,
+            "I 1 2/m 1": null,
+            "A 1 1 2/m": null,
+            "B 1 1 2/m": null,
+            "I 1 1 2/m": null,
+            "B 2/m 1 1": null,
+            "C 2/m 1 1": null,
+            "I 2/m 1 1": null,
+            "F 1 2/m 1": null
+        }
+    },
+    "13": {
+        "standard_name": "P 1 2/c 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 1 2/c 1": null,
+            "P 1 2/n 1": null,
+            "P 1 2/a 1": null,
+            "P 1 1 2/a": null,
+            "P 1 1 2/n": null,
+            "P 1 1 2/b": null,
+            "P 2/b 1 1": null,
+            "P 2/n 1 1": null,
+            "P 2/c 1 1": null
+        }
+    },
+    "14": {
+        "standard_name": "P 1 21/c 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 1 21/c 1": null,
+            "P 1 21/n 1": null,
+            "P 1 21/a 1": null,
+            "P 1 1 21/a": null,
+            "P 1 1 21/n": null,
+            "P 1 1 21/b": null,
+            "P 21/b 1 1": null,
+            "P 21/n 1 1": null,
+            "P 21/c 1 1": null
+        }
+    },
+    "15": {
+        "standard_name": "C 1 2/c 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C 1 2/c 1": null,
+            "A 1 2/n 1": null,
+            "I 1 2/a 1": null,
+            "A 1 2/a 1": null,
+            "C 1 2/n 1": null,
+            "I 1 2/c 1": null,
+            "A 1 1 2/a": null,
+            "B 1 1 2/n": null,
+            "I 1 1 2/b": null,
+            "B 1 1 2/b": null,
+            "A 1 1 2/n": null,
+            "I 1 1 2/a": null,
+            "B 2/b 1 1": null,
+            "C 2/n 1 1": null,
+            "I 2/c 1 1": null,
+            "C 2/c 1 1": null,
+            "B 2/n 1 1": null,
+            "I 2/b 1 1": null
+        }
+    },
+    "16": {
+        "standard_name": "P 2 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 2 2 2": null
+        }
+    },
+    "17": {
+        "standard_name": "P 2 2 21",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 2 2 21": null,
+            "P 21 2 2": null,
+            "P 2 21 2": null
+        }
+    },
+    "18": {
+        "standard_name": "P 21 21 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 21 21 2": null,
+            "P 2 21 21": null,
+            "P 21 2 21": null,
+            "P 21212(a)": null
+        }
+    },
+    "19": {
+        "standard_name": "P 21 21 21",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 21 21 21": null
+        }
+    },
+    "20": {
+        "standard_name": "C 2 2 21",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C 2 2 21": null,
+            "A 21 2 2": null,
+            "B 2 21 2": null,
+            "C 2 2 21a)": null
+        }
+    },
+    "21": {
+        "standard_name": "C 2 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C 2 2 2": null,
+            "A 2 2 2": null,
+            "B 2 2 2": null,
+            "C 2 2 2a": null
+        }
+    },
+    "22": {
+        "standard_name": "F 2 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F 2 2 2": null,
+            "F 2 2 2a": null
+        }
+    },
+    "23": {
+        "standard_name": "I 2 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 2 2 2": null,
+            "I 2 2 2a": null
+        }
+    },
+    "24": {
+        "standard_name": "I 21 21 21",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 21 21 21": null
+        }
+    },
+    "25": {
+        "standard_name": "P m m 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P m m 2": null,
+            "P 2 m m": null,
+            "P m 2 m": null
+        }
+    },
+    "26": {
+        "standard_name": "P m c 21",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P m c 21": null,
+            "P c m 21": null,
+            "P 21 m a": null,
+            "P 21 a m": null,
+            "P b 21 m": null,
+            "P m 21 b": null
+        }
+    },
+    "27": {
+        "standard_name": "P c c 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P c c 2": null,
+            "P 2 a a": null,
+            "P b 2 b": null
+        }
+    },
+    "28": {
+        "standard_name": "P m a 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P m a 2": null,
+            "P b m 2": null,
+            "P 2 m b": null,
+            "P 2 c m": null,
+            "P c 2 m": null,
+            "P m 2 a": null
+        }
+    },
+    "29": {
+        "standard_name": "P c a 21",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P c a 21": null,
+            "P b c 21": null,
+            "P 21 a b": null,
+            "P 21 c a": null,
+            "P c 21 b": null,
+            "P b 21 a": null
+        }
+    },
+    "30": {
+        "standard_name": "P n c 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P n c 2": null,
+            "P c n 2": null,
+            "P 2 n a": null,
+            "P 2 a n": null,
+            "P b 2 n": null,
+            "P n 2 b": null
+        }
+    },
+    "31": {
+        "standard_name": "P m n 21",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P m n 21": null,
+            "P n m 21": null,
+            "P 21 m n": null,
+            "P 21 n m": null,
+            "P n 21 m": null,
+            "P m 21 n": null
+        }
+    },
+    "32": {
+        "standard_name": "P b a 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P b a 2": null,
+            "P 2 c b": null,
+            "P c 2 a": null
+        }
+    },
+    "33": {
+        "standard_name": "P n a 21",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P n a 21": null,
+            "P b n 21": null,
+            "P 21 n b": null,
+            "P 21 c n": null,
+            "P c 21 n": null,
+            "P n 21 a": null
+        }
+    },
+    "34": {
+        "standard_name": "P n n 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P n n 2": null,
+            "P 2 n n": null,
+            "P n 2 n": null
+        }
+    },
+    "35": {
+        "standard_name": "C m m 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C m m 2": null,
+            "A 2 m m": null,
+            "B m 2 m": null
+        }
+    },
+    "36": {
+        "standard_name": "C m c 21",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C m c 21": null,
+            "C c m 21": null,
+            "A 21 m a": null,
+            "A 21 a m": null,
+            "B b 21 m": null,
+            "B m 21 b": null
+        }
+    },
+    "37": {
+        "standard_name": "C c c 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C c c 2": null,
+            "A 2 a a": null,
+            "B b 2 b": null
+        }
+    },
+    "38": {
+        "standard_name": "A m m 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "A m m 2": null,
+            "B m m 2": null,
+            "B 2 m m": null,
+            "C 2 m m": null,
+            "C m 2 m": null,
+            "A m 2 m": null
+        }
+    },
+    "39": {
+        "standard_name": "A b m 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "A b m 2": null,
+            "B m a 2": null,
+            "B 2 c m": null,
+            "C 2 m b": null,
+            "C m 2 a": null,
+            "A c 2 m": null
+        }
+    },
+    "40": {
+        "standard_name": "A m a 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "A m a 2": null,
+            "B b m 2": null,
+            "B 2 m b": null,
+            "C 2 c m": null,
+            "C c 2 m": null,
+            "A m 2 a": null
+        }
+    },
+    "41": {
+        "standard_name": "A b a 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "A b a 2": null,
+            "B b a 2": null,
+            "B 2 c b": null,
+            "C 2 c b": null,
+            "C c 2 a": null,
+            "A c 2 a": null
+        }
+    },
+    "42": {
+        "standard_name": "F m m 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F m m 2": null,
+            "F 2 m m": null,
+            "F m 2 m": null
+        }
+    },
+    "43": {
+        "standard_name": "F d d 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F d d 2": null,
+            "F 2 d d": null,
+            "F d 2 d": null
+        }
+    },
+    "44": {
+        "standard_name": "I m m 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I m m 2": null,
+            "I 2 m m": null,
+            "I m 2 m": null
+        }
+    },
+    "45": {
+        "standard_name": "I b a 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I b a 2": null,
+            "I 2 c b": null,
+            "I c 2 a": null
+        }
+    },
+    "46": {
+        "standard_name": "I m a 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I m a 2": null,
+            "I b m 2": null,
+            "I 2 m b": null,
+            "I 2 c m": null,
+            "I c 2 m": null,
+            "I m 2 a": null
+        }
+    },
+    "47": {
+        "standard_name": "P m m m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P m m m": null
+        }
+    },
+    "48": {
+        "standard_name": "P n n n",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P n n n": null
+        }
+    },
+    "49": {
+        "standard_name": "P c c m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P c c m": null,
+            "P m a a": null,
+            "P b m b": null
+        }
+    },
+    "50": {
+        "standard_name": "P b a n",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P b a n": null,
+            "P n c b": null,
+            "P c n a": null
+        }
+    },
+    "51": {
+        "standard_name": "P m m a",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P m m a": null,
+            "P m m b": null,
+            "P b m m": null,
+            "P c m m": null,
+            "P m c m": null,
+            "P m a m": null
+        }
+    },
+    "52": {
+        "standard_name": "P n n a",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P n n a": null,
+            "P n n b": null,
+            "P b n n": null,
+            "P c n n": null,
+            "P n c n": null,
+            "P n a n": null
+        }
+    },
+    "53": {
+        "standard_name": "P m n a",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P m n a": null,
+            "P n m b": null,
+            "P b m n": null,
+            "P c n m": null,
+            "P n c m": null,
+            "P m a n": null
+        }
+    },
+    "54": {
+        "standard_name": "P c c a",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P c c a": null,
+            "P c c b": null,
+            "P b a a": null,
+            "P c a a": null,
+            "P b c b": null,
+            "P b a b": null
+        }
+    },
+    "55": {
+        "standard_name": "P b a m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P b a m": null,
+            "P m c b": null,
+            "P c m a": null
+        }
+    },
+    "56": {
+        "standard_name": "P c c n",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P c c n": null,
+            "P n a a": null,
+            "P b n b": null
+        }
+    },
+    "57": {
+        "standard_name": "P b c m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P b c m": null,
+            "P c a m": null,
+            "P m c a": null,
+            "P m a b": null,
+            "P b m a": null,
+            "P c m b": null
+        }
+    },
+    "58": {
+        "standard_name": "P n n m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P n n m": null,
+            "P m n n": null,
+            "P n m n": null
+        }
+    },
+    "59": {
+        "standard_name": "P m m n",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P m m n": null,
+            "P n m m": null,
+            "P m n m": null
+        }
+    },
+    "60": {
+        "standard_name": "P b c n",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P b c n": null,
+            "P c a n": null,
+            "P n c a": null,
+            "P n a b": null,
+            "P b n a": null,
+            "P c n b": null
+        }
+    },
+    "61": {
+        "standard_name": "P b c a",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P b c a": null,
+            "P c a b": null
+        }
+    },
+    "62": {
+        "standard_name": "P n m a",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P n m a": null,
+            "P m n b": null,
+            "P b n m": null,
+            "P c m n": null,
+            "P m c n": null,
+            "P n a m": null
+        }
+    },
+    "63": {
+        "standard_name": "C m c m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C m c m": null,
+            "C c m m": null,
+            "A m m a": null,
+            "A m a m": null,
+            "B b m m": null,
+            "B m m b": null
+        }
+    },
+    "64": {
+        "standard_name": "C m c a",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C m c a": null,
+            "C c m b": null,
+            "A b m a": null,
+            "A c a m": null,
+            "B b c m": null,
+            "B m a b": null,
+            "A b a m": null
+        }
+    },
+    "65": {
+        "standard_name": "C m m m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C m m m": null,
+            "A m m m": null,
+            "B m m m": null
+        }
+    },
+    "66": {
+        "standard_name": "C c c m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C c c m": null,
+            "A m a a": null,
+            "B b m b": null
+        }
+    },
+    "67": {
+        "standard_name": "C m m a",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C m m a": null,
+            "C m m b": null,
+            "A b m m": null,
+            "A c m m": null,
+            "B m c m": null,
+            "B m a m": null
+        }
+    },
+    "68": {
+        "standard_name": "C c c a",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "C c c a": null,
+            "C c c b": null,
+            "A b a a": null,
+            "A c a a": null,
+            "B b c b": null,
+            "B b a b": null
+        }
+    },
+    "69": {
+        "standard_name": "F m m m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F m m m": null
+        }
+    },
+    "70": {
+        "standard_name": "F d d d",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F d d d": null
+        }
+    },
+    "71": {
+        "standard_name": "I m m m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I m m m": null
+        }
+    },
+    "72": {
+        "standard_name": "I b a m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I b a m": null,
+            "I m c b": null,
+            "I c m a": null
+        }
+    },
+    "73": {
+        "standard_name": "I b c a",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I b c a": null,
+            "I c a b": null
+        }
+    },
+    "74": {
+        "standard_name": "I m m a",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I m m a": null,
+            "I m m b": null,
+            "I b m m": null,
+            "I c m m": null,
+            "I m c m": null,
+            "I m a m": null
+        }
+    },
+    "75": {
+        "standard_name": "P 4",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4": null
+        }
+    },
+    "76": {
+        "standard_name": "P 41",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 41": null
+        }
+    },
+    "77": {
+        "standard_name": "P 42",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42": null
+        }
+    },
+    "78": {
+        "standard_name": "P 43",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 43": null
+        }
+    },
+    "79": {
+        "standard_name": "I 4",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 4": null
+        }
+    },
+    "80": {
+        "standard_name": "I 41",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 41": null
+        }
+    },
+    "81": {
+        "standard_name": "P -4",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -4": null
+        }
+    },
+    "82": {
+        "standard_name": "I -4",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I -4": null
+        }
+    },
+    "83": {
+        "standard_name": "P 4/m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4/m": null
+        }
+    },
+    "84": {
+        "standard_name": "P 42/m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42/m": null
+        }
+    },
+    "85": {
+        "standard_name": "P 4/n",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4/n": null
+        }
+    },
+    "86": {
+        "standard_name": "P 42/n",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42/n": null
+        }
+    },
+    "87": {
+        "standard_name": "I 4/m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 4/m": null
+        }
+    },
+    "88": {
+        "standard_name": "I 41/a",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 41/a": null
+        }
+    },
+    "89": {
+        "standard_name": "P 4 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4 2 2": null,
+            "C 4 2 2": null
+        }
+    },
+    "90": {
+        "standard_name": "P 4 21 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4 21 2": null,
+            "C 4 2 21": null
+        }
+    },
+    "91": {
+        "standard_name": "P 41 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 41 2 2": null
+        }
+    },
+    "92": {
+        "standard_name": "P 41 21 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 41 21 2": null
+        }
+    },
+    "93": {
+        "standard_name": "P 42 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42 2 2": null
+        }
+    },
+    "94": {
+        "standard_name": "P 42 21 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42 21 2": null,
+            "P 42 21 2a": null
+        }
+    },
+    "95": {
+        "standard_name": "P 43 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 43 2 2": null
+        }
+    },
+    "96": {
+        "standard_name": "P 43 21 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 43 21 2": null
+        }
+    },
+    "97": {
+        "standard_name": "I 4 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 4 2 2": null,
+            "F 4 2 2": null
+        }
+    },
+    "98": {
+        "standard_name": "I 41 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 41 2 2": null
+        }
+    },
+    "99": {
+        "standard_name": "P 4 m m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4 m m": null
+        }
+    },
+    "100": {
+        "standard_name": "P 4 b m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4 b m": null
+        }
+    },
+    "101": {
+        "standard_name": "P 42 c m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42 c m": null
+        }
+    },
+    "102": {
+        "standard_name": "P 42 n m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42 n m": null
+        }
+    },
+    "103": {
+        "standard_name": "P 4 c c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4 c c": null
+        }
+    },
+    "104": {
+        "standard_name": "P 4 n c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4 n c": null
+        }
+    },
+    "105": {
+        "standard_name": "P 42 m c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42 m c": null
+        }
+    },
+    "106": {
+        "standard_name": "P 42 b c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42 b c": null
+        }
+    },
+    "107": {
+        "standard_name": "I 4 m m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 4 m m": null
+        }
+    },
+    "108": {
+        "standard_name": "I 4 c m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 4 c m": null
+        }
+    },
+    "109": {
+        "standard_name": "I 41 m d",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 41 m d": null
+        }
+    },
+    "110": {
+        "standard_name": "I 41 c d",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 41 c d": null
+        }
+    },
+    "111": {
+        "standard_name": "P -4 2 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -4 2 m": null
+        }
+    },
+    "112": {
+        "standard_name": "P -4 2 c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -4 2 c": null
+        }
+    },
+    "113": {
+        "standard_name": "P -4 21 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -4 21 m": null
+        }
+    },
+    "114": {
+        "standard_name": "P -4 21 c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -4 21 c": null
+        }
+    },
+    "115": {
+        "standard_name": "P -4 m 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -4 m 2": null,
+            "C -4 2 m": null
+        }
+    },
+    "116": {
+        "standard_name": "P -4 c 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -4 c 2": null
+        }
+    },
+    "117": {
+        "standard_name": "P -4 b 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -4 b 2": null,
+            "C -4 2 b": null
+        }
+    },
+    "118": {
+        "standard_name": "P -4 n 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -4 n 2": null
+        }
+    },
+    "119": {
+        "standard_name": "I -4 m 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I -4 m 2": null
+        }
+    },
+    "120": {
+        "standard_name": "I -4 c 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I -4 c 2": null
+        }
+    },
+    "121": {
+        "standard_name": "I -4 2 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I -4 2 m": null
+        }
+    },
+    "122": {
+        "standard_name": "I -4 2 d",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I -4 2 d": null
+        }
+    },
+    "123": {
+        "standard_name": "P 4/m m m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4/m m m": null
+        }
+    },
+    "124": {
+        "standard_name": "P 4/m c c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4/m c c": null
+        }
+    },
+    "125": {
+        "standard_name": "P 4/n b m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4/n b m": null
+        }
+    },
+    "126": {
+        "standard_name": "P 4/n n c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4/n n c": null
+        }
+    },
+    "127": {
+        "standard_name": "P 4/m b m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4/m b m": null
+        }
+    },
+    "128": {
+        "standard_name": "P 4/m n c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4/m n c": null
+        }
+    },
+    "129": {
+        "standard_name": "P 4/n m m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4/n m m": null
+        }
+    },
+    "130": {
+        "standard_name": "P 4/n c c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4/n c c": null
+        }
+    },
+    "131": {
+        "standard_name": "P 42/m m c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42/m m c": null
+        }
+    },
+    "132": {
+        "standard_name": "P 42/m c m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42/m c m": null
+        }
+    },
+    "133": {
+        "standard_name": "P 42/n b c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42/n b c": null
+        }
+    },
+    "134": {
+        "standard_name": "P 42/n n m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42/n n m": null
+        }
+    },
+    "135": {
+        "standard_name": "P 42/m b c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42/m b c": null
+        }
+    },
+    "136": {
+        "standard_name": "P 42/m n m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42/m n m": null
+        }
+    },
+    "137": {
+        "standard_name": "P 42/n m c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42/n m c": null
+        }
+    },
+    "138": {
+        "standard_name": "P 42/n c m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42/n c m": null
+        }
+    },
+    "139": {
+        "standard_name": "I 4/m m m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 4/m m m": null,
+            "F 4/m m m": null
+        }
+    },
+    "140": {
+        "standard_name": "I 4/m c m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 4/m c m": null
+        }
+    },
+    "141": {
+        "standard_name": "I 41/a m d",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 41/a m d": null
+        }
+    },
+    "142": {
+        "standard_name": "I 41/a c d",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 41/a c d": null
+        }
+    },
+    "143": {
+        "standard_name": "P 3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 3": null
+        }
+    },
+    "144": {
+        "standard_name": "P 31",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 31": null
+        }
+    },
+    "145": {
+        "standard_name": "P 32",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 32": null
+        }
+    },
+    "146": {
+        "standard_name": "R 3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "R 3": null
+        }
+    },
+    "147": {
+        "standard_name": "P -3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -3": null
+        }
+    },
+    "148": {
+        "standard_name": "R -3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "R -3": null
+        }
+    },
+    "149": {
+        "standard_name": "P 3 1 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 3 1 2": null
+        }
+    },
+    "150": {
+        "standard_name": "P 3 2 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 3 2 1": null
+        }
+    },
+    "151": {
+        "standard_name": "P 31 1 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 31 1 2": null
+        }
+    },
+    "152": {
+        "standard_name": "P 31 2 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 31 2 1": null
+        }
+    },
+    "153": {
+        "standard_name": "P 32 1 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 32 1 2": null
+        }
+    },
+    "154": {
+        "standard_name": "P 32 2 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 32 2 1": null
+        }
+    },
+    "155": {
+        "standard_name": "R 3 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "R 3 2": null
+        }
+    },
+    "156": {
+        "standard_name": "P 3 m 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 3 m 1": null
+        }
+    },
+    "157": {
+        "standard_name": "P 3 1 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 3 1 m": null
+        }
+    },
+    "158": {
+        "standard_name": "P 3 c 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 3 c 1": null
+        }
+    },
+    "159": {
+        "standard_name": "P 3 1 c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 3 1 c": null
+        }
+    },
+    "160": {
+        "standard_name": "R 3 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "R 3 m": null
+        }
+    },
+    "161": {
+        "standard_name": "R 3 c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "R 3 c": null
+        }
+    },
+    "162": {
+        "standard_name": "P -3 1 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -3 1 m": null
+        }
+    },
+    "163": {
+        "standard_name": "P -3 1 c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -3 1 c": null
+        }
+    },
+    "164": {
+        "standard_name": "P -3 m 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -3 m 1": null
+        }
+    },
+    "165": {
+        "standard_name": "P -3 c 1",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -3 c 1": null
+        }
+    },
+    "166": {
+        "standard_name": "R -3 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "R -3 m": null
+        }
+    },
+    "167": {
+        "standard_name": "R -3 c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "R -3 c": null
+        }
+    },
+    "168": {
+        "standard_name": "P 6",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 6": null
+        }
+    },
+    "169": {
+        "standard_name": "P 61",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 61": null
+        }
+    },
+    "170": {
+        "standard_name": "P 65",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 65": null
+        }
+    },
+    "171": {
+        "standard_name": "P 62",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 62": null
+        }
+    },
+    "172": {
+        "standard_name": "P 64",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 64": null
+        }
+    },
+    "173": {
+        "standard_name": "P 63",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 63": null
+        }
+    },
+    "174": {
+        "standard_name": "P -6",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -6": null
+        }
+    },
+    "175": {
+        "standard_name": "P 6/m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 6/m": null
+        }
+    },
+    "176": {
+        "standard_name": "P 63/m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 63/m": null
+        }
+    },
+    "177": {
+        "standard_name": "P 6 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 6 2 2": null
+        }
+    },
+    "178": {
+        "standard_name": "P 61 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 61 2 2": null
+        }
+    },
+    "179": {
+        "standard_name": "P 65 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 65 2 2": null
+        }
+    },
+    "180": {
+        "standard_name": "P 62 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 62 2 2": null
+        }
+    },
+    "181": {
+        "standard_name": "P 64 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 64 2 2": null
+        }
+    },
+    "182": {
+        "standard_name": "P 63 2 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 63 2 2": null
+        }
+    },
+    "183": {
+        "standard_name": "P 6 m m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 6 m m": null
+        }
+    },
+    "184": {
+        "standard_name": "P 6 c c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 6 c c": null
+        }
+    },
+    "185": {
+        "standard_name": "P 63 c m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 63 c m": null
+        }
+    },
+    "186": {
+        "standard_name": "P 63 m c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 63 m c": null
+        }
+    },
+    "187": {
+        "standard_name": "P -6 m 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -6 m 2": null
+        }
+    },
+    "188": {
+        "standard_name": "P -6 c 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -6 c 2": null
+        }
+    },
+    "189": {
+        "standard_name": "P -6 2 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -6 2 m": null
+        }
+    },
+    "190": {
+        "standard_name": "P -6 2 c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -6 2 c": null
+        }
+    },
+    "191": {
+        "standard_name": "P 6/m m m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 6/m m m": null
+        }
+    },
+    "192": {
+        "standard_name": "P 6/m c c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 6/m c c": null
+        }
+    },
+    "193": {
+        "standard_name": "P 63/m c m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 63/m c m": null
+        }
+    },
+    "194": {
+        "standard_name": "P 63/m m c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 63/m m c": null
+        }
+    },
+    "195": {
+        "standard_name": "P 2 3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 2 3": null
+        }
+    },
+    "196": {
+        "standard_name": "F 2 3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F 2 3": null
+        }
+    },
+    "197": {
+        "standard_name": "I 2 3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 2 3": null,
+            "I 2 3a": null
+        }
+    },
+    "198": {
+        "standard_name": "P 21 3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 21 3": null
+        }
+    },
+    "199": {
+        "standard_name": "I 21 3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 21 3": null
+        }
+    },
+    "200": {
+        "standard_name": "P m -3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P m -3": null
+        }
+    },
+    "201": {
+        "standard_name": "P n -3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P n -3": null
+        }
+    },
+    "202": {
+        "standard_name": "F m -3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F m -3": null
+        }
+    },
+    "203": {
+        "standard_name": "F d -3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F d -3": null
+        }
+    },
+    "204": {
+        "standard_name": "I m -3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I m -3": null
+        }
+    },
+    "205": {
+        "standard_name": "P a -3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P a -3": null
+        }
+    },
+    "206": {
+        "standard_name": "I a -3",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I a -3": null
+        }
+    },
+    "207": {
+        "standard_name": "P 4 3 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 4 3 2": null
+        }
+    },
+    "208": {
+        "standard_name": "P 42 3 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 42 3 2": null
+        }
+    },
+    "209": {
+        "standard_name": "F 4 3 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F 4 3 2": null
+        }
+    },
+    "210": {
+        "standard_name": "F 41 3 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F 41 3 2": null
+        }
+    },
+    "211": {
+        "standard_name": "I 4 3 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 4 3 2": null
+        }
+    },
+    "212": {
+        "standard_name": "P 43 3 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 43 3 2": null
+        }
+    },
+    "213": {
+        "standard_name": "P 41 3 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P 41 3 2": null
+        }
+    },
+    "214": {
+        "standard_name": "I 41 3 2",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I 41 3 2": null
+        }
+    },
+    "215": {
+        "standard_name": "P -4 3 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -4 3 m": null
+        }
+    },
+    "216": {
+        "standard_name": "F -4 3 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F -4 3 m": null
+        }
+    },
+    "217": {
+        "standard_name": "I -4 3 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I -4 3 m": null
+        }
+    },
+    "218": {
+        "standard_name": "P -4 3 n",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P -4 3 n": null
+        }
+    },
+    "219": {
+        "standard_name": "F -4 3 c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F -4 3 c": null
+        }
+    },
+    "220": {
+        "standard_name": "I -4 3 d",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I -4 3 d": null
+        }
+    },
+    "221": {
+        "standard_name": "P m -3 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P m -3 m": null
+        }
+    },
+    "222": {
+        "standard_name": "P n -3 n",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P n -3 n": null
+        }
+    },
+    "223": {
+        "standard_name": "P m -3 n",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P m -3 n": null
+        }
+    },
+    "224": {
+        "standard_name": "P n -3 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "P n -3 m": null
+        }
+    },
+    "225": {
+        "standard_name": "F m -3 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F m -3 m": null
+        }
+    },
+    "226": {
+        "standard_name": "F m -3 c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F m -3 c": null
+        }
+    },
+    "227": {
+        "standard_name": "F d -3 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F d -3 m": null
+        }
+    },
+    "228": {
+        "standard_name": "F d -3 c",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "F d -3 c": null
+        }
+    },
+    "229": {
+        "standard_name": "I m -3 m",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I m -3 m": null
+        }
+    },
+    "230": {
+        "standard_name": "I a -3 d",
+        "max_sohncke_subgroup": null,
+        "isomorphic": {
+            "I a -3 d": null
+        }
+    }
+}
